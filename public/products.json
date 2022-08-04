@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": 1
+  },
+  {
+    "name": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "id": 2
+  },
+  {
+    "name": "Globo Terráqueo",
+    "price": 345.67,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/globe-earth-geograhy-planet-school-256.png",
+    "id": 3
+  },
+  {
+    "name": "asdads",
+    "price": "123123",
+    "thumbnail": "asdasd",
+    "id": 4
+  },
+  {
+    "name": "silla",
+    "price": "123123",
+    "thumbnail": "asd",
+    "id": 5
+  },
+  {
+    "name": "adasd",
+    "price": "123",
+    "thumbnail": "123123",
+    "id": 6
+  },
+  {
+    "name": "zxc",
+    "price": "1",
+    "thumbnail": "1",
+    "id": 7
+  },
+  {
+    "name": "123",
+    "price": "123",
+    "thumbnail": "123",
+    "id": 8
+  }
+]
